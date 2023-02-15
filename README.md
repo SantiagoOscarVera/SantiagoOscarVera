@@ -1,5 +1,5 @@
-<h1 align="center">Hola 👋, Soy Santiago Vera</h1>
-<h3 align="center">Full-Stack Developer con background en contabilidad</h3>
+<h1 align="center">Hi 👋, I'm Santiago Vera</h1>
+<h3 align="center">Full-Stack Developer with accounting background</h3>
 
 - 🔭 I’m currently working on [AllTech](https://client-ochre-five.vercel.app/)
 
