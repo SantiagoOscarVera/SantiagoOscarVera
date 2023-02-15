@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **e-Commerce´s**
 
-- 👨‍💻 All of my projects are available at [*in process*](*in process*)
+- 👨‍💻 All of my projects are available at *in process*
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/santiago-vera-programador-developer/](https://www.linkedin.com/in/santiago-vera-programador-developer/)
 
