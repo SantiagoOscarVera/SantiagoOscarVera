@@ -11,13 +11,13 @@
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/santiago-vera-programador-developer/](https://www.linkedin.com/in/santiago-vera-programador-developer/)
 
-- 💬 Ask me about **react**
+- 💬 Ask me about **React and Chakra Ui**
 
 - 📫 How to reach me **santiagovera280@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/santiago-vera-programador-developer/](https://www.linkedin.com/in/santiago-vera-programador-developer/)
 
-- ⚡ Fun fact **I have good persuasion skills to sell ideas**
+- ⚡ Fun fact **I have good persuasion skills to sell thinks**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
