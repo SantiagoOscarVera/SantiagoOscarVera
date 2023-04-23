@@ -1,23 +1,23 @@
 <h1 align="center">Hi 👋, I'm Santiago Vera</h1>
 <h3 align="center">Full-Stack Developer with accounting background</h3>
 
-- 🔭 I’m currently working on [AllTech](https://client-ochre-five.vercel.app/)
+- 🔭 I am currently working on my own projects and training, my last big project was [AllTech](https://client-ochre-five.vercel.app/)
 
-- 🌱 I’m currently learning **Material ui**
+- 🌱 I am currently learning **Next.js**
 
-- 👯 I’m looking to collaborate on **e-Commerce´s**
+- 👯 I am looking to collaborate in **projects that challenge me**
 
-- 👨‍💻 All of my projects are available at *in process*
+- 👨‍💻 All my projects are available at *https://portfolio-santiago-vera.netlify.app/#portfolio*
 
-- 📝 I regularly write articles on [https://www.linkedin.com/in/santiago-vera-programador-developer/](https://www.linkedin.com/in/santiago-vera-programador-developer/)
+- 📝 I regularly write articles on [https://www.linkedin.com/in/santiago-vera-programador-developer/](https://www.linkedin.com/in/santiago-vera-programador-developer/ )
 
-- 💬 Ask me about **React and Chakra Ui**
+- 💬 Ask me about **React with Javascript and Typescript**
 
-- 📫 How to reach me **santiagovera280@gmail.com**
+- 📫 How to contact me **santiagovera280@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/santiago-vera-programador-developer/](https://www.linkedin.com/in/santiago-vera-programador-developer/)
+- 📄 Learn about my experiences [https://www.linkedin.com/in/santiago-vera-programador-developer/](https://www.linkedin.com/in/santiago-vera-programador-developer/)
 
-- ⚡ Fun fact **I have good persuasion skills to sell thinks**
+- ⚡ Fun fact **I had my own ventures which gives me the versatility to think as a programmer and entrepreneur**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
