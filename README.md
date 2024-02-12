@@ -3,7 +3,7 @@
 
 - 🔭 I am currently working on my own projects and training, my last big project was [AllTech](https://client-ochre-five.vercel.app/)
 
-- 🌱 I am currently learning **Next.js**
+- 🌱 I am currently learning **PHP/WordPress**
 
 - 👯 I am looking to collaborate in **projects that challenge me**
 
