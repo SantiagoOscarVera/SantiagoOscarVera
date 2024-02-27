@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/santiago-vera-programador-developer/](https://www.linkedin.com/in/santiago-vera-programador-developer/ )
 
-- 💬 Ask me about **React with Javascript and Typescript**
+- 💬 Ask me about **React with JavaScript and TypeScript**
 
 - 📫 How to contact me **santiagovera280@gmail.com**
 
